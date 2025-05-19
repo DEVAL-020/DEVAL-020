@@ -49,6 +49,10 @@
 <a href="https://X.com/Official_Deval" target="blank"><img align="center" src="https://imageio.forbes.com/specials-images/imageserve/64f8e481ed69b0d89df9e2c7/Twitter-rebrands-to-X/960x0.png?format=png&width=960" alt="Official_Deval" height="40" width="70" /></a>
 <a href="https://linkedin.com/in/deval-patel-27292b307" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Deval Patel" height="40" width="70" /></a>
 <a href="https://instagram.com/_deval_20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_deval_20" height="40" width="70" /></a>
+</p> 
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
 </p>
 
 
