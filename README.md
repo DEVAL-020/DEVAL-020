@@ -10,7 +10,10 @@
 
 - 💬 Ask me about **HTML and CSS**
 
-- 📫 How to reach me: **pateldeval6050@gmail.com**
+- 📫 How to reach 
+<img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width="30" /> me:**pateldeval6050@gmail.com**
+
+
 ---
 
 ### 👨‍💻 **About Me:**
