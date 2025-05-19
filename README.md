@@ -1,7 +1,10 @@
 
 <!-- Profile Header -->
-<h1 align="center">Hi 👋, I'm Deval Patel</h1>
+<h1 align="center"> 
+  <p align="center">Hi
+  <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="40" />, I'm Deval Patel</h1></p>
 <h3 align="center">🚀 Aspiring Software Developer | 💡 Tech And Space Enthusiast </h3>
+
 
 - 🌱 I’m currently learning **Javascript**
 
@@ -55,9 +58,6 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
 </p>
 
-<p align="center">
-  <img src="https://private-user-images.githubusercontent.com/74038190/243078834-72903324-cf57-4e90-80a6-ed3c9734e0ed.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDc2NzA4MTQsIm5iZiI6MTc0NzY3MDUxNCwicGF0aCI6Ii83NDAzODE5MC8yNDMwNzg4MzQtNzI5MDMzMjQtY2Y1Ny00ZTkwLTgwYTYtZWQzYzk3MzRlMGVkLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA1MTklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNTE5VDE2MDE1NFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWE4NzJmYmZkMzRmMTA3OGQ1MWMzNWIzMThiMzg0ZWJjMDYyZjJjMWI3YTM0MTBjMjAzYzA1YTY4N2NiZGFlZjEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.C7rbrGD3tQgrVM470nNLdpJY2Gdp_dNLk5YA9f8PwzQ" width="400" />
-</p>
 
 
 ---
