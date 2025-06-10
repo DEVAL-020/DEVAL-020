@@ -58,9 +58,20 @@
 <a href="https://instagram.com/deval.patell" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="deval.patell" height="40" width="70" /></a>
 </p> 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DEVAL-020&theme=dark&show_icons=true&hide_border=false&count_private=true" width="400" />
-</p>
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=DEVAL-020&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=DEVAL-020&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DEVAL-020&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+---
+[![](https://visitcount.itsvg.in/api?id=DEVAL-020&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
