@@ -26,9 +26,6 @@
 # 📫 Connect with Me:  
 
 <p align="center">
-  <a href="https://www.instagram.com/deval.patell" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" />
-  </a>
   <a href="https://www.linkedin.com/in/gecgce2024deval" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
