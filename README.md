@@ -6,7 +6,6 @@
 <h3 align="center">🚀 Aspiring Software Developer | 💡 Tech And Space Enthusiast </h3>
 
 
-- 🌱 I’m currently learning **Data Structures and Algorithm**
 - 💬 Ask me about **Front-end Dev**
 
 - 📫 How to reach 
