@@ -13,7 +13,6 @@
 
 
 ---
-
 # 👨‍💻 **About Me:**
 
 - 🎓 Pursuing **B.Tech at GEC-Gandhinagar**      
