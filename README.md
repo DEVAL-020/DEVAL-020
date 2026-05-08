@@ -75,4 +75,4 @@
 
 --- 
 ## Total Profile View
-![Profile Views](https://count.getloli.com/get/@DEVAL-020?theme=moebooru)
+![Profile Views](https://count.getloli.com/get/@DEVAL-020?theme=gelbooru)
