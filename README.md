@@ -49,16 +49,17 @@
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=DEVAL-020&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=DEVAL-020&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DEVAL-020&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### 📈 **GitHub Stats**
 
-
-
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DEVAL-020&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DEVAL-020&theme=tokyonight&hide_border=true&border_radius=10" width="45%" />
+</p>
 
 ---
+
+
+
 
 ### ✍️ Random Dev Quote:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
