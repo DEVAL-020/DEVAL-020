@@ -1,10 +1,16 @@
-
 <!-- Profile Header -->
 <h1 align="center"> 
   <p align="center">Hi
   <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="40" />, I'm Deval Patel</h1></p>
 <h3 align="center">🚀 Aspiring Software Developer | 💡 Tech And Space Enthusiast </h3>
 
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=19&duration=3500&pause=600&color=FFA900&center=true&vCenter=true&width=500&lines=Welcome+To+My+GitHub!+%F0%9F%8C%90;Passionate+about+AI+and+Full+Stack+Development;Consistency+Over+Motivation%E2%9A%A1;Always+building%2C+Always+improving+%F0%9F%92%BB;Always+excited+to+learn+and+explore+new+skills+%F0%9F%92%A1" alt="Typing SVG" />
+  </a>
+</p>
+
+---
 
 - 💬 Ask me about **Front-end Dev**
 
@@ -74,5 +80,8 @@
 </p>
 
 --- 
+
 ## Total Profile View
 ![Profile Views](https://count.getloli.com/get/@DEVAL-020?theme=gelbooru)
+
+---
