@@ -69,7 +69,7 @@
 
 ---
 
-### 📈 **GitHub Stats**
+# 📈 GitHub Stats:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DEVAL-020&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="45%" />
@@ -82,20 +82,19 @@
 
 ---
 
-### ✍️ Random Dev Quote:
+# ✍️ Random Dev Quote:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 [![](https://visitcount.itsvg.in/api?id=DEVAL-020&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
 ---
+
+# Total Profile View:
+![Profile Views](https://count.getloli.com/get/@DEVAL-020?theme=gelbooru)
+
+--- 
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
 </p>
 
 --- 
-
-## Total Profile View
-![Profile Views](https://count.getloli.com/get/@DEVAL-020?theme=gelbooru)
-
----
