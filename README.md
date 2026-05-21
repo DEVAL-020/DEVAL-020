@@ -38,7 +38,11 @@
 - 🎓 Pursuing **B.Tech at GEC-Gandhinagar**      
 - 💡 Passionate about **Software Development** and building innovative projects
 
+
+
 ---
+
+
 
 # 📫 Connect with Me:  
 
