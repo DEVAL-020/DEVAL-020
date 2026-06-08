@@ -65,26 +65,18 @@
   <img src="https://skillicons.dev/icons?i=c,cpp,html,css,tailwind,bootstrap,js,md,java,python,powershell,react,next,nodejs,npm,express,mongodb,mysql,postgres,figma,git,github,postman,vscode,idea,linux,ubuntu&perline=8" />
 </p>
 
-
-
 ---
 
-# 📈 GitHub Stats:
+# 📈 GitHub Analytics:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DEVAL-020&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="45%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DEVAL-020&theme=tokyonight&hide_border=true&border_radius=10" width="45%" />
 </p>
 
----
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=DEVAL-020)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-# ✍️ Random Dev Quote:
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-[![](https://visitcount.itsvg.in/api?id=DEVAL-020&icon=0&color=0)](https://visitcount.itsvg.in)
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DEVAL-020&bg_color=0d1117&color=00d4ff&line=00ff88&point=ff6600&area=true&hide_border=true&custom_title=Contribution%20Graph" width="100%" />
+</div>
 
 ---
 
@@ -98,3 +90,8 @@
 </p>
 
 --- 
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+[![](https://visitcount.itsvg.in/api?id=DEVAL-020&icon=0&color=0)](https://visitcount.itsvg.in)
+
+---
