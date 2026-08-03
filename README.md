@@ -75,7 +75,7 @@
 </p>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DEVAL-020&bg_color=0d1117&color=00d4ff&line=00ff88&point=ff6600&area=true&hide_border=true&custom_title=Contribution%20Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DEVAL020&bg_color=0d1117&color=00d4ff&line=00ff88&point=ff6600&area=true&hide_border=true&custom_title=Contribution%20Graph" width="100%" />
 </div>
 
 ---
