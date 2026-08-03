@@ -7,23 +7,12 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=19&duration=3500&pause=600&color=A4FF3A&center=true&vCenter=true&width=500&lines=Welcome+To+My+GitHub!+%F0%9F%8C%90;Passionate+about+AI+and+Full+Stack+Development;Consistency+Over+Motivation%E2%9A%A1;Always+building%2C+Always+improving+%F0%9F%92%BB;Always+excited+to+learn+and+explore+new+skills+%F0%9F%92%A1" alt="Typing SVG" />
+    
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=20&duration=3500&pause=700&color=00C2FF&center=true&vCenter=true&width=700&lines=Software+Developer+%F0%9F%92%BB;AI+%26+Machine+Learning+Enthusiast+%F0%9F%A4%96;Full+Stack+Developer+in+Progress+%F0%9F%9A%80;Always+Learning+Something+New+%F0%9F%93%9A" />
+</p>
   </a>
 </p>
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-</picture>
 
 ---
 
@@ -74,9 +63,27 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DEVAL-020&theme=tokyonight&hide_border=true&border_radius=10" width="45%" />
 </p>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DEVAL020&bg_color=0d1117&color=00d4ff&line=00ff88&point=ff6600&area=true&hide_border=true&custom_title=Contribution%20Graph" width="100%" />
-</div>
+# 📊 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DEVAL-020&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+</picture>
+
+</p>
 
 ---
 
@@ -85,13 +92,19 @@
 
 --- 
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
-</p>
-
---- 
-
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 [![](https://visitcount.itsvg.in/api?id=DEVAL-020&icon=0&color=0)](https://visitcount.itsvg.in)
+
+---
+
+<span align="left">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+
+
+### Thanks for visiting! ⭐
+
+If you like my work, consider giving a ⭐ to my repositories.
+
+</span>
 
 ---
