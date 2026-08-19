@@ -56,10 +56,20 @@
 
 # 📈 GitHub Analytics:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DEVAL-020&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DEVAL-020&theme=tokyonight&hide_border=true&border_radius=10" width="45%" />
-</p>
+<div align="center">
+
+<img src="https://github-stats-extended.vercel.app/api?username=DEVAL-020&show_icons=true&theme=tokyonight&hide_border=true" width="48%" /> 
+<img src="https://streak-stats.demolab.com/?user=DEVAL-020&theme=tokyonight&hide_border=true" width="48%" />
+
+<br>
+
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=DEVAL-020&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+
+<br>
+
+<!-- <img src="https://github-profile-trophy.vercel.app/?username=DEVAL-020&theme=tokyonight&no-frame=true&row=1&column=7" width="95%" /> -->
+
+</div>
 
 # 📊 Contribution Graph
 
