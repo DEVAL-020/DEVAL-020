@@ -105,14 +105,15 @@
 
 ---
 
-<span align="left">
+<div align="left">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
 
 
-### Thanks for visiting! ⭐
+## If you like my work, consider giving a ⭐ to my repositories and you can use them by fork them.
 
-If you like my work, consider giving a ⭐ to my repositories.
+</div>
 
-</span>
+<br>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,25&height=150&section=footer&text=Thanks%20for%20Visiting!&fontSize=35&fontColor=fff&fontAlignY=75" />
 
 ---
