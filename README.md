@@ -1,3 +1,18 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="DEVAL-020's GitHub profile" src="dark_mode.svg" />
+</picture>
+
+
+
+
+
+
+
+
+
+
 <!-- Profile Header -->
 <h1 align="center"> 
   <p align="center">Hi
@@ -6,10 +21,10 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=19&duration=3500&pause=600&color=A4FF3A&center=true&vCenter=true&width=500&lines=Welcome+To+My+GitHub!+%F0%9F%8C%90;Passionate+about+AI+and+Full+Stack+Development;Consistency+Over+Motivation%E2%9A%A1;Always+building%2C+Always+improving+%F0%9F%92%BB;Always+excited+to+learn+and+explore+new+skills+%F0%9F%92%A1" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=25&duration=3500&pause=600&color=A4FF3A&center=true&vCenter=true&width=1000&lines=Welcome+To+My+GitHub!+%F0%9F%8C%90;Passionate+about+AI+and+Full+Stack+Development;Consistency+Over+Motivation%E2%9A%A1;Always+building%2C+Always+improving+%F0%9F%92%BB;Always+excited+to+learn+and+explore+new+skills+%F0%9F%92%A1" alt="Typing SVG" />
     
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=20&duration=3500&pause=700&color=00C2FF&center=true&vCenter=true&width=700&lines=Software+Developer+%F0%9F%92%BB;AI+%26+Machine+Learning+Enthusiast+%F0%9F%A4%96;Full+Stack+Developer+in+Progress+%F0%9F%9A%80;Always+Learning+Something+New+%F0%9F%93%9A" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=30&duration=3500&pause=700&color=00C2FF&center=true&vCenter=true&width=700&lines=Software+Developer+%F0%9F%92%BB;AI+%26+Machine+Learning+Enthusiast+%F0%9F%A4%96;Full+Stack+Developer+in+Progress+%F0%9F%9A%80;Always+Learning+Something+New+%F0%9F%93%9A" />
 </p>
   </a>
 </p>
@@ -108,8 +123,7 @@
 <!-- <div align="left">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" /> -->
 
-<!--   my-header-img -->
-![](./src/header_.png)
+![](/src/header_.png)
 
 ## If you like my work, consider giving a ⭐ to my repositories and you can use them by fork them.
 
