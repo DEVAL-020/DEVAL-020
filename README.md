@@ -1,18 +1,3 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
-  <img alt="DEVAL-020's GitHub profile" src="dark_mode.svg" />
-</picture>
-
-
-
-
-
-
-
-
-
-
 <!-- Profile Header -->
 <h1 align="center"> 
   <p align="center">Hi
@@ -30,6 +15,14 @@
 </p>
 
 ---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="src/dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="src/light_mode.svg" />
+  <img alt="DEVAL-020's GitHub profile" src="src/dark_mode.svg" />
+</picture>
+
+<br>
 
 - 📫 How to reach 
 <img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width="50" />me: **pateldeval6050@gmail.com**
