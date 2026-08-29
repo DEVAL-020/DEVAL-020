@@ -36,6 +36,14 @@
 
 ---
 
+# 💻 Tech Stack:
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,tailwind,bootstrap,js,md,java,python,powershell,react,next,nodejs,npm,express,mongodb,mysql,postgres,figma,git,github,postman,vscode,idea,linux,ubuntu&perline=8" />
+</p>
+
+---
+
 # 📫 Connect with Me:  
 
 <p align="center">
@@ -51,14 +59,6 @@
   <a href="https://stackoverflow.com/users/31278451" target="_blank">
     <img src="https://skillicons.dev/icons?i=stackoverflow" />
   </a>
-</p>
-
----
-
-# 💻 Tech Stack:
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,tailwind,bootstrap,js,md,java,python,powershell,react,next,nodejs,npm,express,mongodb,mysql,postgres,figma,git,github,postman,vscode,idea,linux,ubuntu&perline=8" />
 </p>
 
 ---
