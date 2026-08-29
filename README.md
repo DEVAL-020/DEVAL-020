@@ -14,14 +14,15 @@
   </a>
 </p>
 
----
+--- 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="src/dark_mode.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="src/light_mode.svg" />
-  <img alt="DEVAL-020's GitHub profile" src="src/dark_mode.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://gh.crafter.run/DEVAL-020?theme=dark&detail=80" />
+  <source media="(prefers-color-scheme: light)" srcset="https://gh.crafter.run/DEVAL-020?theme=light&detail=80" />
+  <img alt="DEVAL-020's GitHub profile" src="https://gh.crafter.run/DEVAL-020?theme=dark&detail=80" />
 </picture>
 
+<br>
 <br>
 
 - 📫 How to reach 
@@ -126,6 +127,3 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,25&height=150&section=footer&text=Thanks%20for%20Visiting!&fontSize=35&fontColor=fff&fontAlignY=75" />
 
 ---
-
-
-
