@@ -74,17 +74,13 @@
 
 <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=DEVAL-020&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 
-<br>
-
-<!-- <img src="https://github-profile-trophy.vercel.app/?username=DEVAL-020&theme=tokyonight&no-frame=true&row=1&column=7" width="95%" /> -->
-
 </div>
 
 # 📊 Contribution Graph
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DEVAL-020&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
