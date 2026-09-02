@@ -31,10 +31,9 @@
 ---
 # 👨‍💻 **About Me:**
 
-- 🎓 Pursuing **B.Tech at GEC-Gandhinagar**      
+- 🎓 Pursuing **B.Tech at GEC-Gandhinagar**  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="120" align="right"/>
 - 💡 Passionate about **Software Development** and building innovative projects
 
----
 
 # 💻 Tech Stack:
 
