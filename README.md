@@ -119,9 +119,9 @@
 ---
 
 <p align="center">
-⭐ Feel free to explore my repositories and projects!
+ <h3> ⭐ Feel free to explore my repositories and projects!
  <br>
-  If you like my work, consider giving a ⭐ to my repositories and you can use by fork them.
+   If you like my work, consider giving a ⭐ to my repositories and you can use by fork them. </h3>
 </p>
 
 ---
