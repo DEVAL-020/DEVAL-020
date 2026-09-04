@@ -70,11 +70,14 @@
 
 <img height="169em" src="https://github-stats-extended.vercel.app/api?username=DEVAL-020&show_icons=true&theme=tokyonight&border_radius=35" /> 
 <img height="169em" src="https://streak-stats.demolab.com/?user=DEVAL-020&theme=tokyonight&border_radius=35" />
+<img height="35%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=DEVAL-020&langs_count=10&layout=compact&theme=tokyonight&border_radius=40" width="35%" />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DEVAL-020&layout=compact&theme=tokyonight&border_radius=40" />
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DEVAL-020&layout=compact&theme=tokyonight&border_radius=40" />
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DEVAL-020&layout=compact&theme=tokyonight&border_radius=40" />
 
 
 <br>
 
-<img height="35%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=DEVAL-020&langs_count=10&layout=compact&theme=tokyonight&border_radius=40" width="40%" />
 
 </div>
 
