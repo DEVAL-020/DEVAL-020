@@ -68,8 +68,8 @@
 
 <div align="center">
 
-<img src="https://github-stats-extended.vercel.app/api?username=DEVAL-020&show_icons=true&theme=tokyonight&border_radius=35" width="48%" /> 
-<img src="https://streak-stats.demolab.com/?user=DEVAL-020&theme=tokyonight&border_radius=35" width="48%" />
+<img height="200em" src="https://github-stats-extended.vercel.app/api?username=DEVAL-020&show_icons=true&theme=tokyonight&border_radius=35" /> 
+<img height="200em" src="https://streak-stats.demolab.com/?user=DEVAL-020&theme=tokyonight&border_radius=35" />
 
 
 <br>
