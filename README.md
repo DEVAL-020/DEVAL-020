@@ -68,13 +68,13 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-stats-extended.vercel.app/api?username=DEVAL-020&show_icons=true&theme=tokyonight&border_radius=35" /> 
-<img height="180em" src="https://streak-stats.demolab.com/?user=DEVAL-020&theme=tokyonight&border_radius=35" />
+<img height="169em" src="https://github-stats-extended.vercel.app/api?username=DEVAL-020&show_icons=true&theme=tokyonight&border_radius=35" /> 
+<img height="169em" src="https://streak-stats.demolab.com/?user=DEVAL-020&theme=tokyonight&border_radius=35" />
 
 
 <br>
 
-<img height="40%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=DEVAL-020&langs_count=10&layout=compact&theme=tokyonight&border_radius=40" width="40%" />
+<img height="35%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=DEVAL-020&langs_count=10&layout=compact&theme=tokyonight&border_radius=40" width="40%" />
 
 </div>
 
