@@ -68,13 +68,13 @@
 
 <div align="center">
 
-<img src="https://github-stats-extended.vercel.app/api?username=DEVAL-020&show_icons=true&theme=tokyonight&hide_border=true" width="48%" /> 
-<img src="https://streak-stats.demolab.com/?user=DEVAL-020&theme=tokyonight&hide_border=true" width="48%" />
-<img height="169em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DEVAL-020&langs_count=8&layout=compact&theme=tokyonight&" alt="Top Languages" />
+<img src="https://github-stats-extended.vercel.app/api?username=DEVAL-020&show_icons=true&theme=tokyonight&border_radius=35" width="48%" /> 
+<img src="https://streak-stats.demolab.com/?user=DEVAL-020&theme=tokyonight&border_radius=35" width="48%" />
+
 
 <br>
 
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=DEVAL-020&langs_count=10&layout=compact&theme=tokyonight&border_radius=30" width="35%" />
+<img height="40%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=DEVAL-020&langs_count=10&layout=compact&theme=tokyonight&border_radius=40" width="40%" />
 
 </div>
 
