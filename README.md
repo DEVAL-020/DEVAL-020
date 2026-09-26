@@ -140,7 +140,10 @@
 <p align="center">
  <h3> ⭐ Feel free to explore my repositories and projects!
  <br>
-   If you like my work, consider giving a ⭐ to my repositories and you can use by fork them. </h3>
+   If you like my work, consider giving a ⭐ to my repositories and you can use by fork them, 
+   <br>
+   I'm always open to collaborating on interesting projects, discussing AI/ML innovations.
+ </h3>
 </p>
 
 ---
