@@ -11,6 +11,12 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=25&duration=3500&pause=700&color=00C2FF&center=true&vCenter=true&width=500&lines=Software+Developer+%F0%9F%92%BB;AI+%26+Machine+Learning+Enthusiast+%F0%9F%A4%96;Full+Stack+Developer+in+Progress+%F0%9F%9A%80;Always+Learning+Something+New+%F0%9F%93%9A" />
 </p>
+
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=DEVAL-020&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views"/>
+    <img src="https://img.shields.io/github/followers/DEVAL-020?style=flat-square&logo=github&label=Followers" alt="Followers"/>
+    <img src="https://img.shields.io/github/stars/DEVAL-020?affiliations=OWNER&style=flat-square&logo=github&label=Stars" alt="Stars"/>
+  </p>
   </a>
 </p>
 
@@ -30,14 +36,14 @@
 
 ---
 
-# 👨‍💻 **About Me:**
+## 👨‍💻 **About Me:**
 
 - 🎓 Pursuing **B.Tech at GEC-Gandhinagar**
 - 💡 Passionate about **Software Development** and building innovative projects
 
 --- 
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,html,css,tailwind,bootstrap,js,md,java,python,powershell,react,next,nodejs,npm,express,mongodb,mysql,postgres,figma,git,github,postman,vscode,idea,linux,ubuntu&perline=8" />
@@ -45,7 +51,7 @@
 
 ---
 
-# 📫 Connect with Me:  
+## 📫 Connect with Me:  
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gecgce2024deval" target="_blank">
@@ -64,31 +70,44 @@
 
 ---
 
-# 📈 GitHub Analytics:
+## 🏆 My GitHub Score, updated daily:
+
+<!--SCORE_START-->
+🏆 **GitHub Score:** 4254
+
+📊 Formula: (Commits ×0.5 + Stars ×5 + Forks ×3 + PRs ×4 + Issues ×2 + Followers ×2)
+
+🎮 **Level 8**
+[▓▓▓▓▓░░░░░] 50%
+<!--SCORE_END-->
+
+---
+
+## 📈 GitHub Analytics:
 
 <div align="center">
 
-<img height="169em" src="https://github-stats-extended.vercel.app/api?username=DEVAL-020&show_icons=true&theme=tokyonight&border_radius=30" /> 
-<img height="169em" src="https://streak-stats.demolab.com/?user=DEVAL-020&theme=tokyonight&border_radius=30" />
-<img height="40%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=DEVAL-020&langs_count=10&layout=compact&theme=tokyonight&border_radius=30" width="40%" />
-<img height="180em" width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DEVAL-020&layout=compact&theme=tokyonight&border_radius=10" />
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DEVAL-020&layout=compact&theme=tokyonight&border_radius=10" />
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DEVAL-020&layout=compact&theme=tokyonight&border_radius=10" />
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DEVAL-020&layout=compact&theme=tokyonight&border_radius=10" />
+<img height="169em" src="https://github-stats-extended.vercel.app/api?username=DEVAL-020&show_icons=true&theme=dark&border_radius=30" /> 
+<img height="169em" src="https://streak-stats.demolab.com/?user=DEVAL-020&theme=dark&border_radius=30" />
+<img height="40%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=DEVAL-020&langs_count=10&layout=compact&theme=dark&border_radius=30" width="40%" />
+<img height="180em" width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DEVAL-020&layout=compact&theme=dark&border_radius=10" />
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DEVAL-020&layout=compact&theme=dark&border_radius=10" />
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DEVAL-020&layout=compact&theme=dark&border_radius=10" />
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DEVAL-020&layout=compact&theme=dark&border_radius=10" />
 
 </div>
 
-# 📊 Contribution Graph
+## 📊 Contribution Graph:
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DEVAL-020&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DEVAL-020&theme=dark&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🐍 Contribution Snake
+## 🐍 Contribution Snake:
 
 <p align="center">
 
@@ -102,7 +121,7 @@
 
 ---
 
-# Total Profile View:
+## Total Profile View:
 ![Profile Views](https://count.getloli.com/get/@DEVAL-020?theme=gelbooru)
 
 --- 
@@ -131,7 +150,5 @@
 <br>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,25&height=150&section=footer&text=Thanks%20for%20Visiting!&fontSize=35&fontColor=fff&fontAlignY=75" />
 
+
 ---
-
-
-
