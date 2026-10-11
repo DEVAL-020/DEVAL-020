@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="340" height="100" viewBox="0 0 340 100">
+<style>
+.s{font-family:Inter,'SF Pro Display','Segoe UI',Helvetica,Arial,sans-serif}
+.m{font-family:'JetBrains Mono','SF Mono',Consolas,'Courier New',monospace}
+@keyframes fl{0%,100%{transform:translateY(0)}50%{transform:translateY(-8px)}}
+@keyframes br{0%,100%{opacity:.55}50%{opacity:1}}
+.br{animation:br 3.2s ease-in-out infinite}
+</style>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0c0e13"/><stop offset="1" stop-color="#141824"/></linearGradient>
+<linearGradient id="glass" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fff" stop-opacity=".10"/><stop offset="1" stop-color="#fff" stop-opacity=".03"/></linearGradient>
+<linearGradient id="gstroke" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#fff" stop-opacity=".38"/><stop offset=".5" stop-color="#fff" stop-opacity=".08"/><stop offset="1" stop-color="#fff" stop-opacity=".18"/></linearGradient>
+<linearGradient id="bar" x1="0" x2="1"><stop offset="0" stop-color="#8ea2ff" stop-opacity=".55"/><stop offset="1" stop-color="#ffffff" stop-opacity=".9"/></linearGradient>
+<filter id="blur" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="55"/></filter>
+<clipPath id="panel"><rect width="340" height="100" rx="26"/></clipPath>
+
+</defs>
+<g clip-path="url(#panel)">
+<rect width="340" height="100" fill="url(#bg)"/>
+<circle cx="300" cy="20" r="90" fill="#5b6cff" opacity="0.3" filter="url(#blur)"/>
+
+<rect x="1" y="1" width="338" height="98" rx="22" fill="url(#glass)" stroke="url(#gstroke)"/>
+<rect x="26" y="24" width="52" height="52" rx="14" fill="#fff" fill-opacity=".06" stroke="#fff" stroke-opacity=".2"/>
+<text x="52" y="58" text-anchor="middle" class="s" font-size="20" font-weight="600" fill="#f3f4f6">SO</text>
+<text x="96" y="46" class="s" font-size="18" font-weight="600" fill="#f3f4f6">Stack Overflow</text>
+<text x="96" y="68" class="m" font-size="12" fill="#aab2c2">user 31278451</text>
+<text x="312" y="56" text-anchor="middle" class="s" font-size="22" fill="#6b7385">↗</text>
+
+</g>
+<rect x=".5" y=".5" width="339" height="99" rx="26" fill="none" stroke="#fff" stroke-opacity=".10"/>
+</svg>
