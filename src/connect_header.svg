@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220" viewBox="0 0 1200 220">
+<style>
+.s{font-family:Inter,'SF Pro Display','Segoe UI',Helvetica,Arial,sans-serif}
+.m{font-family:'JetBrains Mono','SF Mono',Consolas,'Courier New',monospace}
+@keyframes br{0%,100%{opacity:.5}50%{opacity:1}}
+.br{animation:br 3.2s ease-in-out infinite}
+</style>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b0d12"/><stop offset="1" stop-color="#131723"/></linearGradient>
+<linearGradient id="glass" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fff" stop-opacity=".11"/><stop offset="1" stop-color="#fff" stop-opacity=".03"/></linearGradient>
+<linearGradient id="gstroke" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#fff" stop-opacity=".40"/><stop offset=".5" stop-color="#fff" stop-opacity=".07"/><stop offset="1" stop-color="#fff" stop-opacity=".20"/></linearGradient>
+<linearGradient id="bar" x1="0" x2="1"><stop offset="0" stop-color="#8ea2ff" stop-opacity=".55"/><stop offset="1" stop-color="#ffffff" stop-opacity=".9"/></linearGradient>
+<linearGradient id="fade" x1="0" y1="0" x2="0" y2="1"><stop offset=".55" stop-color="#0b0d12" stop-opacity="0"/><stop offset="1" stop-color="#0b0d12" stop-opacity=".75"/></linearGradient>
+<filter id="blur" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="55"/></filter>
+<clipPath id="panel"><rect width="1200" height="220" rx="26"/></clipPath>
+
+</defs>
+<g clip-path="url(#panel)">
+<rect width="1200" height="220" fill="url(#bg)"/>
+<circle cx="1050" cy="60" r="200" fill="#5b6cff" opacity="0.35" filter="url(#blur)"/><circle cx="80" cy="220" r="150" fill="#2dd4bf" opacity="0.14" filter="url(#blur)"/>
+
+<text x="60" y="56" text-anchor="start" class="m" font-size="12" fill="#6b7385" letter-spacing="3">04 — CONTACT</text>
+<text x="58" y="136" class="s" font-size="68" font-weight="700" fill="#f3f4f6" letter-spacing="-2.5">Let's connect<tspan fill="#8ea2ff">.</tspan></text>
+<text x="60" y="180" class="s" font-size="18" fill="#aab2c2">Ideas, collaboration, open source. Say hi.</text>
+
+</g>
+<rect x=".5" y=".5" width="1199" height="219" rx="26" fill="none" stroke="#fff" stroke-opacity=".10"/>
+</svg>
