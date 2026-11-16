@@ -131,15 +131,6 @@
 
 > "Ship beats perfect" - Currently exploring how AI changes everything about software development.
 
-<details>
-<summary>Random Facts</summary>
-
-- Run 3-6 Claude instances concurrently
-- Plays cricket
-- Loves watching movies
-
-</details>
-
 ---
 
 <br>
@@ -147,8 +138,3 @@
 
 
 ---
-
-
-
-
-
